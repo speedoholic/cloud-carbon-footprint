@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/common
 
+## 1.1.0
+
+### Minor Changes
+
+- f75cf08f: Adds support for getting GCP recommendations from the API
+
 ## 1.0.0
 
 ### Major Changes

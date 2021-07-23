@@ -1,5 +1,13 @@
 # @cloud-carbon-footprint/aws
 
+## 0.2.1
+
+### Patch Changes
+
+- f75cf08f: Adds support for getting GCP recommendations from the API
+- Updated dependencies [f75cf08f]
+  - @cloud-carbon-footprint/common@1.1.0
+
 ## 0.2.0
 
 ### Minor Changes

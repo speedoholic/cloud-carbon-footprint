@@ -1,5 +1,13 @@
 # @cloud-carbon-footprint/api
 
+## 1.0.1
+
+### Patch Changes
+
+- Updated dependencies [f75cf08f]
+  - @cloud-carbon-footprint/app@0.2.0
+  - @cloud-carbon-footprint/common@1.1.0
+
 ## 1.0.0
 
 ### Major Changes

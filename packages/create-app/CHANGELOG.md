@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/create-app
 
+## 0.4.17
+
+### Patch Changes
+
+- 62491735: [365] remove gcp accounts in aws from mock data
+
 ## 0.4.16
 
 ### Patch Changes

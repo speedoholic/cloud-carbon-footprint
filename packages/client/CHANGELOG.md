@@ -1,5 +1,13 @@
 # @cloud-carbon-footprint/client
 
+## 1.0.1
+
+### Patch Changes
+
+- 62491735: [365] remove gcp accounts in aws from mock data
+- Updated dependencies [f75cf08f]
+  - @cloud-carbon-footprint/common@1.1.0
+
 ## 1.0.0
 
 ### Major Changes
