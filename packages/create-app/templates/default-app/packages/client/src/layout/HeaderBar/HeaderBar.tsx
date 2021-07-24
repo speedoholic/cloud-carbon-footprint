@@ -28,7 +28,7 @@ const HeaderBar = (): ReactElement => {
       <Toolbar>
         <Link to="/" style={{ color: 'inherit', textDecoration: 'inherit' }}>
           <Typography component="h1" variant="h5">
-            Cloud Carbon Footprint
+            Climate Lens
           </Typography>
         </Link>
       </Toolbar>

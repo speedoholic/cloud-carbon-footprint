@@ -79,9 +79,9 @@ export enum UnknownTypes {
 }
 
 export const barChartCustomColors: string[] = [
-  '#73B500',
-  '#00791E',
-  '#D99200',
-  '#DF5200',
-  '#790000',
+  '#14A5AB',
+  '#4FA62F',
+  '#E67310',
+  '#D71E8D',
+  '#834EFF',
 ]

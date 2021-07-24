@@ -27,7 +27,7 @@ const determineTheme = (): Theme => {
     palette: {
       type: 'light',
       background: {
-        default: '#F1F1F1',
+        default: '#F3F3F3',
       },
       chart: [
         // primary

@@ -23,7 +23,7 @@ type LegendToggle = {
 const ApexLineChart: FunctionComponent<ApexChartProps> = ({ data }) => {
   const theme = useTheme()
   const colors = getChartColors(theme)
-  const [blue, yellow, green] = [colors[0], colors[5], colors[8]]
+  const [blue, yellow, green] = [colors[4], colors[5], colors[6]]
 
   const [dateRange, setDateRange] = React.useState<DateRange>({
     min: null,

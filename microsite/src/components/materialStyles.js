@@ -1,7 +1,7 @@
 import { makeStyles } from '@material-ui/core/styles'
 
 const buttonBasis = {
-  background: '#146133',
+  background: '#DB0011',
   color: 'white',
   fontFamily: 'Helvetica',
   fontSize: '12pt',
@@ -9,7 +9,7 @@ const buttonBasis = {
   letterSpacing: '1px',
   '&:hover': {
     color: '#ffffff',
-    backgroundColor: '#067A3E',
+    backgroundColor: '#14A5AB',
     textDecoration: 'none',
   },
 }

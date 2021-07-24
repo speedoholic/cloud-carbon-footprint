@@ -21461,6 +21461,7 @@ resolve@^2.0.0-next.3:
   resolution: "root@workspace:."
   dependencies:
     "@changesets/cli": ^2.16.0
+    "@cloud-carbon-footprint/client": "workspace:packages/client"
     "@types/fs-extra": ^9.0.12
     concurrently: ^6.2.0
     fs-extra: ^10.0.0

@@ -233,7 +233,7 @@ exports[`EmissionsBreakdownCard renders a select dropdown for the bar chart 1`] 
                   "borderRadius": 1,
                   "borderWidth": 1,
                   "enabled": true,
-                  "foreColor": "#3f51b5",
+                  "foreColor": "#db0011",
                   "opacity": 0.9,
                   "padding": 6,
                 },
