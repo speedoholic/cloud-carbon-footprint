@@ -101,7 +101,7 @@ const InfoSidebar: FunctionComponent = () => {
   const drawerStatus = open ? 'open' : 'closed'
   return (
     <Drawer
-      anchor="right"
+      anchor="left"
       variant="permanent"
       id={`drawer-` + drawerStatus}
       className={clsx(classes.drawer, {
