@@ -10,6 +10,7 @@ import ErrorPage from './layout/ErrorPage'
 import EmissionsMetricsPage from './pages/EmissionsMetricsPage'
 import InfoSidebar from './layout/InfoSidebar'
 import HeaderBar from './layout/HeaderBar'
+import ChatButton from './layout/ChatButton'
 
 function App(): ReactElement {
   const useStyles = makeStyles(() => ({
@@ -23,7 +24,6 @@ function App(): ReactElement {
   return (
     <>
       <HeaderBar />
-
       <Container maxWidth={'xl'} className={classes.appContainer}>
         <Switch>
           <Route path="/error" exact>
@@ -31,6 +31,7 @@ function App(): ReactElement {
           </Route>
           <Route path="/">
             <InfoSidebar />
+            <ChatButton />
             <EmissionsMetricsPage />
           </Route>
         </Switch>

@@ -22,7 +22,7 @@ const useStyles = makeStyles(
       infoButton: {
         margin: spacing(10, 'auto'),
         color:
-          palette.type === 'dark' ? palette.text.primary : palette.primary.main,
+          palette.type === 'dark' ? palette.text.primary : palette.info.dark,
       },
       closeButtonContainer: {
         textAlign: 'right',
