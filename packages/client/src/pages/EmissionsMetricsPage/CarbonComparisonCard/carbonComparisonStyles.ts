@@ -21,7 +21,7 @@ const useStyles = makeStyles(({ palette, spacing, typography }) => {
       maxWidth: 250,
     },
     topContainer: {
-      backgroundColor: palette.primary.main,
+      backgroundColor: '#813772',
       textAlign: 'center',
     },
     bottomContainer: {
@@ -40,13 +40,13 @@ const useStyles = makeStyles(({ palette, spacing, typography }) => {
       fontWeight: typography.fontWeightBold,
     },
     metricTwo: {
-      color: palette.primary.light,
+      color: '#4fa62f',
       fontWeight: typography.fontWeightBold,
     },
     icon: {
       height: 240,
       width: 200,
-      color: palette.primary.light,
+      color: '#4fa62f',
     },
     source: {
       padding: spacing(2),
